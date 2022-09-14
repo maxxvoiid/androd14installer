@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/FmKotsv.png" width="200" height="200" />
 
 ## Androd 14 Installer
+### App exclusiva de android!
 La nueva actualizacion de androd está aquí!
 
 Con nuevas mejoras.
@@ -12,5 +13,3 @@ Con nuevas mejoras.
 Creado por: maxisepYT
 
 <img src="https://i.imgur.com/B5CWZoE.jpg" width="50" height="50" />
-
-### App exclusiva de android!
