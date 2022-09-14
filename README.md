@@ -1,5 +1,3 @@
-![img](https://imgur.com/a/IyedpEI)
-
 ## Androd 14 Installer
 La nueva actualizacion de androd está aquí!
 
