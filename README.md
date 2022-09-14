@@ -5,7 +5,7 @@ La nueva actualizacion de androd está aquí!
 
 Con nuevas mejoras.
 
-Descarga la aplicación ya!
+### [Descarga aquí la aplicación ya!](https://github.com/soymaxisepYT/androd14installer/releases)
 
 <sup>No nos hacemos responsables si tu celular se destruye :)</sup>
 
