@@ -9,4 +9,6 @@ Con nuevas mejoras.
 
 <sup>No nos hacemos responsables si tu celular se destruye :)</sup>
 
+Creado por: maxisepYT
+
 <img src="https://i.imgur.com/B5CWZoE.jpg" width="50" height="50" />
