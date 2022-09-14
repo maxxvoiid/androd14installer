@@ -12,3 +12,5 @@ Con nuevas mejoras.
 Creado por: maxisepYT
 
 <img src="https://i.imgur.com/B5CWZoE.jpg" width="50" height="50" />
+
+### App exclusiva de android!
