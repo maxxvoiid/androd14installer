@@ -1,4 +1,4 @@
-![img](https://i.ibb.co/5nhcZ6d/Picsart-22-09-09-09-45-19-501.png)
+![img](https://imgur.com/a/IyedpEI)
 
 ## Androd 14 Installer
 La nueva actualizacion de androd está aquí!
